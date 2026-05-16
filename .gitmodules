@@ -7,3 +7,12 @@
 [submodule "todo-ui"]
 	path = todo-ui
 	url = https://github.com/loveholidayaga-sys/todo-ui
+[submodule "modules/storage"]
+	path = modules/storage
+	url = https://github.com/loveholidayaga-sys/todo-storage.git
+[submodule "modules/logic"]
+	path = modules/logic
+	url = https://github.com/loveholidayaga-sys/todo-logic.git
+[submodule "modules/ui"]
+	path = modules/ui
+	url = https://github.com/loveholidayaga-sys/todo-ui.git
