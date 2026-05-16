@@ -1,0 +1,9 @@
+[submodule "todo-storage"]
+	path = todo-storage
+	url = https://github.com/loveholidayaga-sys/todo-storage
+[submodule "todo-logic"]
+	path = todo-logic
+	url = https://github.com/loveholidayaga-sys/todo-logic
+[submodule "todo-ui"]
+	path = todo-ui
+	url = https://github.com/loveholidayaga-sys/todo-ui
